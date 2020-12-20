@@ -2,4 +2,4 @@
 
 Hardware accelerated fractal rendering with OpenGL.
 
-![Screenshot](https://github.com/westgardb/gl-fractals/demo.png)
+![Screenshot](https://github.com/westgardb/gl-fractals/blob/master/demo.png)
